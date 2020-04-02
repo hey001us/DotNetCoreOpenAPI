@@ -1,0 +1,12 @@
+.vs/
+POC.CCS/bin/
+POC.CCS/obj/
+bin
+obj
+*.csproj.user
+.localhistory/
+yarn.lock
+TestResults/
+*.user
+*.pubxml
+.git/
